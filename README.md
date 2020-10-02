@@ -2,9 +2,13 @@
 
 獅尾鋸齒黑體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的轉角挖空和拔腳改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
-獅尾鋸齒黑體的特色是轉角挖空，文字產生鋸齒狀的效果。
+獅尾鋸齒黑體的特色是轉角挖空，文字產生鋸齒狀的效果。有些文字沒有處理的很好看，醜醜的。
 
 ![字體預覽](https://github.com/max32002/swei-alias-sans/raw/master/preview/welcome.png)
+
+和思源黑體一樣，支援7種的字重：
+![字體比較預覽](https://github.com/max32002/swei-alias-sans/raw/master/preview/compare_style.png)
+附註：目前有些筆畫還沒有套用到效果，或套完效果文字變的怪怪的，是程式需要改進的地方。
 
 
 ## 與其他字體的比較
